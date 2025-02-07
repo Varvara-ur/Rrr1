@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Списивцева варвара ИС-21 практическая 3 прим 3/1.0.0": {
+        "runtime": {
+          "Списивцева варвара ИС-21 практическая 3 прим 3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Списивцева варвара ИС-21 практическая 3 прим 3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
