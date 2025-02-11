@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Списивцева варвара Практическая 5 зд 1/1.0.0": {
+        "runtime": {
+          "Списивцева варвара Практическая 5 зд 1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Списивцева варвара Практическая 5 зд 1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
